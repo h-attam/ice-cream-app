@@ -22,3 +22,6 @@ https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles
 https://github.com/testing-library/jest-dom
 https://jestjs.io/docs/using-matchers
 
+### GIF
+
+![](images/icecream.gif)
